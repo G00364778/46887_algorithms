@@ -1,0 +1,172 @@
+<svg width="354.9998971471981" height="480.00018490693213" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #FF0000;
+}
+.s2_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #000000;
+}
+.s3_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #008000;
+}
+
+.g0_1{
+fill: #FFFF00;
+}
+.g1_1{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458791;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+
+]]>
+  </style>
+  <filter id="svg_15_blur">
+   <feGaussianBlur stdDeviation="0.4" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <!-- Any embedded fonts defined here -->
+ <style type="text/css">
+  <![CDATA[
+
+@font-face {
+	font-family: Carlito_9;
+	src: url("fonts/Carlito_9.woff") format("woff");
+}
+
+]]>
+ </style>
+ <g>
+  <title>background</title>
+  <rect height="482" width="357" y="-1" x="-1" fill="none" id="canvas_background"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m133.5,45.300003l24.300003,0l0,-23l-24.300003,0l0,23z" fill-rule="evenodd" id="svg_2" class="g0_1"/>
+  <path d="m206.200012,91.100006l24.200012,0l0,-23l-24.200012,0l0,23z" fill-rule="evenodd" id="svg_3" class="g0_1"/>
+  <path d="m303,91.100006l24.200012,0l0,-23l-24.200012,0l0,23z" fill-rule="evenodd" id="svg_4" class="g0_1"/>
+  <path d="m206.200012,136.899994l24.200012,0l0,-22.899994l-24.200012,0l0,22.899994z" fill-rule="evenodd" id="svg_5" class="g0_1"/>
+  <path d="m278.799988,136.899994l24.200012,0l0,-22.899994l-24.200012,0l0,22.899994z" fill-rule="evenodd" id="svg_6" class="g0_1"/>
+  <path d="m182,182.699997l24.200012,0l0,-22.899994l-24.200012,0l0,22.899994z" fill-rule="evenodd" id="svg_7" class="g0_1"/>
+  <path d="m254.600006,182.699997l24.200012,0l0,-22.899994l-24.200012,0l0,22.899994z" fill-rule="evenodd" id="svg_8" class="g0_1"/>
+  <path d="m182,228.600006l24.200012,0l0,-23l-24.200012,0l0,23z" fill-rule="evenodd" id="svg_9" class="g0_1"/>
+  <path d="m230.399994,228.600006l24.200012,0l0,-23l-24.200012,0l0,23z" fill-rule="evenodd" id="svg_10" class="g0_1"/>
+  <path d="m182,274.399994l48.399994,0l0,-23l-48.399994,0l0,23z" fill-rule="evenodd" id="svg_11" class="g0_1"/>
+  <path d="m157.699997,320.200012l48.500015,0l0,-23l-48.500015,0l0,23z" fill-rule="evenodd" id="svg_12" class="g0_1"/>
+  <path d="m133.5,366l48.5,0l0,-22.899994l-48.5,0l0,22.899994z" fill-rule="evenodd" id="svg_13" class="g0_1"/>
+  <path d="m133.5,411.799988l24.300003,0l0,-22.899994l-24.300003,0l0,22.899994z" fill-rule="evenodd" id="svg_14" class="g0_1"/>
+  <path d="m26.400002,22.5l301.499992,0m-301.499992,22.900002l301.499992,0m-301.499992,22.900002l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.900009l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.900009l301.499992,0m-301.499992,22.900009l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,23l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.900024l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l301.499992,0m-301.499992,22.899994l107.799995,0m-107.799995,22.900024l107.799995,0m-1.100006,-22.899994l25.300003,0m-25.300003,22.899994l25.300003,0m-1.099991,-22.899994l25.299988,0m-25.299988,22.899994l25.299988,0m-1.099991,-22.899994l25.399994,0m-25.399994,22.899994l25.399994,0m-1.199997,-22.899994l25.400009,0m-25.400009,22.899994l25.400009,0m-1.200012,-22.899994l25.399994,0m-25.399994,22.899994l25.399994,0m-1.199982,-22.899994l25.399994,0m-25.399994,22.899994l25.399994,0m-1.100006,-22.899994l25.299988,0m-25.299988,22.899994l25.299988,0m-1.099976,-22.899994l25.299988,0m-25.299988,22.899994l25.299988,0m-301.5,0l301.5,0m-300.899994,-435.800018l0,24m0,21.800003l0,23.999985m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800034l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24m106.699997,-436.400002l0,24m0,21.800003l0,23.999992m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800034l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24m24.199997,-436.400009l0,24m0,21.800003l0,23.999985m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24.000031m24.200012,-436.400017l0,24m0,21.800003l0,23.999992m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,23.999969m24.199982,-436.399963l0,24m0,21.800003l0,24m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,23.999969m24.200012,-436.399971l0,24m0,21.800003l0,23.999992m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800003l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24m24.200012,-436.399979l0,24m0,21.800003l0,24m0,21.800003l0,24.100006m0,21.799973l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24m24.199982,-436.399986l0,24m0,21.800003l0,23.999992m0,21.800003l0,24.100006m0,21.799988l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799988l0,24m0,21.800018l0,24.100006m0,21.699982l0,24.100006m0,21.799988l0,24m24.200012,-436.399994l0,24m24.200012,-24l0,24m-24.200012,21.800003l0,23.999985m24.200012,-23.999985l0,23.999985m-24.200012,21.800003l0,24.100006m24.200012,-24.100006l0,24.100006m-24.200012,21.799988l0,24m24.200012,-24l0,24m-24.200012,21.800034l0,24m24.200012,-24l0,24m-24.200012,21.799988l0,24m24.200012,-24l0,24m-24.200012,21.799988l0,24m24.200012,-24l0,24m-24.200012,21.800018l0,24.100006m24.200012,-24.100006l0,24.100006m-24.200012,21.699982l0,24.100006m24.200012,-24.100006l0,24.100006m-24.200012,21.799988l0,24m24.200012,-24l0,24m0,-436.400002l0,24m0,21.800003l0,24.000008m0,21.799988l0,24.100006m0,21.800003l0,24m0,21.800018l0,24m0,21.799988l0,24m0,21.799957l0,24m0,21.800049l0,24.100006m0,21.699982l0,24.100006m0,21.799957l0,24.000031" opacity="0.4" filter="url(#svg_15_blur)" id="svg_15" class="g1_1"/>
+  <text y="38" x="40" id="svg_16" class="s1_1">Initial Array</text>
+  <text y="38" x="137" id="svg_17" class="s1_1">10</text>
+  <text y="38" x="165" id="svg_18" class="s1_1">7</text>
+  <text y="38" x="189" id="svg_19" class="s1_1">3</text>
+  <text y="38" x="214" id="svg_20" class="s1_1">1</text>
+  <text y="38" x="238" id="svg_21" class="s1_1">9</text>
+  <text y="38" x="262" id="svg_22" class="s1_1">7</text>
+  <text y="38" x="286" id="svg_23" class="s1_1">4</text>
+  <text y="38" x="311" id="svg_24" class="s1_1">3</text>
+  <text y="83" x="39" id="svg_25" class="s2_1">Aﬅer pass 0</text>
+  <text y="83" x="141" id="svg_26" class="s1_1">7</text>
+  <text y="83" x="165" id="svg_27" class="s1_1">3</text>
+  <text y="83" x="189" id="svg_28" class="s1_1">1</text>
+  <text y="83" x="214" id="svg_29" class="s1_1">9</text>
+  <text y="83" x="238" id="svg_30" class="s1_1">7</text>
+  <text y="83" x="262" id="svg_31" class="s1_1">4</text>
+  <text y="83" x="286" id="svg_32" class="s1_1">3</text>
+  <text y="83" x="306" id="svg_33" class="s3_1">10</text>
+  <text y="129" x="39" id="svg_34" class="s2_1">Aﬅer pass 1</text>
+  <text y="129" x="141" id="svg_35" class="s1_1">3</text>
+  <text y="129" x="165" id="svg_36" class="s1_1">1</text>
+  <text y="129" x="189" id="svg_37" class="s1_1">7</text>
+  <text y="129" x="214" id="svg_38" class="s1_1">7</text>
+  <text y="129" x="238" id="svg_39" class="s1_1">4</text>
+  <text y="129" x="262" id="svg_40" class="s1_1">3</text>
+  <text y="129" x="286" id="svg_41" class="s3_1">9</text>
+  <text y="129" x="306" id="svg_42" class="s3_1">10</text>
+  <text y="175" x="39" id="svg_43" class="s2_1">Aﬅer pass 2</text>
+  <text y="175" x="141" id="svg_44" class="s1_1">1</text>
+  <text y="175" x="165" id="svg_45" class="s1_1">3</text>
+  <text y="175" x="189" id="svg_46" class="s1_1">7</text>
+  <text y="175" x="214" id="svg_47" class="s1_1">4</text>
+  <text y="175" x="238" id="svg_48" class="s1_1">3</text>
+  <text y="175" x="262" id="svg_49" class="s3_1">7</text>
+  <text y="175" x="286" id="svg_50" class="s3_1">9</text>
+  <text y="175" x="306" id="svg_51" class="s3_1">10</text>
+  <text y="221" x="39" id="svg_52" class="s2_1">Aﬅer pass 3</text>
+  <text y="221" x="141" id="svg_53" class="s1_1">1</text>
+  <text y="221" x="165" id="svg_54" class="s1_1">3</text>
+  <text y="221" x="189" id="svg_55" class="s1_1">4</text>
+  <text y="221" x="214" id="svg_56" class="s1_1">3</text>
+  <text y="221" x="238" id="svg_57" class="s3_1">7</text>
+  <text y="221" x="262" id="svg_58" class="s3_1">7</text>
+  <text y="221" x="286" id="svg_59" class="s3_1">9</text>
+  <text y="221" x="306" id="svg_60" class="s3_1">10</text>
+  <text y="267" x="39" id="svg_61" class="s2_1">Aﬅer pass 4</text>
+  <text y="267" x="141" id="svg_62" class="s1_1">1</text>
+  <text y="267" x="165" id="svg_63" class="s1_1">3</text>
+  <text y="267" x="189" id="svg_64" class="s1_1">3</text>
+  <text y="267" x="214" id="svg_65" class="s3_1">4</text>
+  <text y="267" x="238" id="svg_66" class="s3_1">7</text>
+  <text y="267" x="262" id="svg_67" class="s3_1">7</text>
+  <text y="267" x="286" id="svg_68" class="s3_1">9</text>
+  <text y="267" x="306" id="svg_69" class="s3_1">10</text>
+  <text y="313" x="39" id="svg_70" class="s2_1">Aﬅer pass 5</text>
+  <text y="313" x="141" id="svg_71" class="s1_1">1</text>
+  <text y="313" x="165" id="svg_72" class="s1_1">3</text>
+  <text y="313" x="189" id="svg_73" class="s3_1">3</text>
+  <text y="313" x="214" id="svg_74" class="s3_1">4</text>
+  <text y="313" x="238" id="svg_75" class="s3_1">7</text>
+  <text y="313" x="262" id="svg_76" class="s3_1">7</text>
+  <text y="313" x="286" id="svg_77" class="s3_1">9</text>
+  <text y="313" x="306" id="svg_78" class="s3_1">10</text>
+  <text y="358" x="39" id="svg_79" class="s2_1">Aﬅer pass 6</text>
+  <text y="358" x="141" id="svg_80" class="s1_1">1</text>
+  <text y="358" x="165" id="svg_81" class="s3_1">3</text>
+  <text y="358" x="189" id="svg_82" class="s3_1">3</text>
+  <text y="358" x="214" id="svg_83" class="s3_1">4</text>
+  <text y="358" x="238" id="svg_84" class="s3_1">7</text>
+  <text y="358" x="262" id="svg_85" class="s3_1">7</text>
+  <text y="358" x="286" id="svg_86" class="s3_1">9</text>
+  <text y="358" x="306" id="svg_87" class="s3_1">10</text>
+  <text y="404" x="39" id="svg_88" class="s2_1">Aﬅer pass 7</text>
+  <text y="404" x="141" id="svg_89" class="s3_1">1</text>
+  <text y="404" x="165" id="svg_90" class="s3_1">3</text>
+  <text y="404" x="189" id="svg_91" class="s3_1">3</text>
+  <text y="404" x="214" id="svg_92" class="s3_1">4</text>
+  <text y="404" x="238" id="svg_93" class="s3_1">7</text>
+  <text y="404" x="262" id="svg_94" class="s3_1">7</text>
+  <text y="404" x="286" id="svg_95" class="s3_1">9</text>
+  <text y="404" x="306" id="svg_96" class="s3_1">10</text>
+  <text y="450" x="37" id="svg_97" class="s3_1">Sorted Array</text>
+  <text y="450" x="141" id="svg_98" class="s3_1">1</text>
+  <text y="450" x="165" id="svg_99" class="s3_1">3</text>
+  <text y="450" x="189" id="svg_100" class="s3_1">3</text>
+  <text y="450" x="214" id="svg_101" class="s3_1">4</text>
+  <text y="450" x="238" id="svg_102" class="s3_1">7</text>
+  <text y="450" x="262" id="svg_103" class="s3_1">7</text>
+  <text y="450" x="286" id="svg_104" class="s3_1">9</text>
+  <text y="450" x="306" id="svg_105" class="s3_1">10</text>
+  <path d="m145.8741,45.750713" stroke-width="null" stroke="null" fill="#ffffff" opacity="0.5" id="svg_106"/>
+  <path d="m145.624084,45.750713l0.128311,11.000217l170.002792,0l0.25,11.250183" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_108"/>
+  <path d="m218.375229,91.751434c0,0.250008 -0.250015,12.250183 -0.371658,12.000267c0.12175,0.25 72.372772,0.749931 72.25119,0.500008c0.122498,0.250008 0.371582,9.750069 0.25,9.500153" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_109"/>
+  <path d="m218.875229,137.252136l-0.121643,12.25032l47.000778,0l-0.25,9.750153" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_110"/>
+  <path d="m194.374847,183.252869l-0.121658,12.500336l47.250763,0l0,10.000168" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_111"/>
+  <path d="m192.874832,228.503571l-0.371674,10.750351l24.250397,-0.25l-0.500015,11.500183" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_112"/>
+  <path d="m193.624832,275.254303l-0.371658,21.500549l0.371658,-21.500549z" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_113"/>
+  <path d="m169.874466,320.255005l0.128326,22.25061l-0.128326,-22.25061z" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_114"/>
+  <path d="m144.874069,366.005707l0.378311,22.250671l-0.378311,-22.250671z" stroke-width="null" stroke="#ff0000" fill="#ffffff" id="svg_115"/>
+ </g>
+</svg>

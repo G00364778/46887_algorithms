@@ -1,0 +1,22 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect height="402" width="602" y="-1" x="-1" fill="#fff" id="canvas_background"/>
+  <g y="0" x="0" height="100%" width="100%" display="none" overflow="visible" id="canvasGrid">
+   <rect height="100%" width="100%" y="0" x="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="120" rx="120" cy="200" cx="300" stroke-width="1.5" stroke="#000000" fill="#ffffff" id="svg_1"/>
+  <line y2="92" x2="300" y1="81" x1="300" stroke-width="2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000000" fill="none" id="svg_3"/>
+  <line y2="270" x2="207" y1="258" x1="207" transform="rotate(51 207 264)" stroke-width="2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000000" fill="none" id="svg_6"/>
+  <line y2="276" x2="388.075" y1="262" x1="388.075" transform="rotate(-51 388.075 269)" stroke-width="2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000000" fill="none" id="svg_7"/>
+  <line y2="158" x2="198.075" y1="144" x1="198.075" transform="rotate(-62 198.075 151)" stroke-width="2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000000" fill="none" id="svg_8"/>
+  <line y2="155" x2="398.075" y1="139" x1="398.075" transform="rotate(-115 398.075 147)" stroke-width="2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000000" fill="none" id="svg_9"/>
+  <path d="m299.270386,103.217819l-0.495056,91.336639c-5.102722,0.932755 -6.517944,4.240509 -6.683167,7.673264c-0.414795,4.472778 2.857849,6.695541 5.693054,8.16832l-0.247498,14.108902l5.197998,-0.247513l-0.247498,-14.356445c2.815186,-1.10025 5.317871,-3.512985 5.445557,-7.425735c0.167267,-4.992783 -1.790466,-6.798065 -6.435669,-8.415848l0,-90.841583l-2.227722,0z" stroke-width="0.5" stroke-opacity="null" stroke="#000000" fill="#ff0000" id="svg_13"/>
+  <text xml:space="preserve" y="37.9994" x="-20.0773" transform="matrix(0.938366 0 0 0.927536 37.339 3.15072)" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000000" fill="#000000" style="cursor: move; pointer-events: inherit;" font-size="24px" font-family="Helvetica,Arial,sans-serif" id="svg_14">https://www.hongkiat.com/blog/svg-meter-gauge-tutorial/</text>
+ </g>
+</svg>

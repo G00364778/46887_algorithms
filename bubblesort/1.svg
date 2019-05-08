@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #FF0000;
+}
+.s2_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #000000;
+}
+.s3_1{
+font-size: 16.80px;
+font-family: Carlito_9;
+fill: #008000;
+}
+
+.g0_1{
+fill: #FFFF00;
+}
+.g1_1{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1458791;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M183.5,105.3h24.3v-23H183.5v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M256.2,151.1h24.2v-23H256.2v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M353,151.1h24.2v-23H353v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M256.2,196.9h24.2V174H256.2v22.9Z" class="g0_1" />
+<path fill-rule="evenodd" d="M328.8,196.9H353V174H328.8v22.9Z" class="g0_1" />
+<path fill-rule="evenodd" d="M232,242.7h24.2V219.8H232v22.9Z" class="g0_1" />
+<path fill-rule="evenodd" d="M304.6,242.7h24.2V219.8H304.6v22.9Z" class="g0_1" />
+<path fill-rule="evenodd" d="M232,288.6h24.2v-23H232v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M280.4,288.6h24.2v-23H280.4v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M232,334.4h48.4v-23H232v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M207.7,380.2h48.5v-23H207.7v23Z" class="g0_1" />
+<path fill-rule="evenodd" d="M183.5,426H232V403.1H183.5V426Z" class="g0_1" />
+<path fill-rule="evenodd" d="M183.5,471.8h24.3V448.9H183.5v22.9Z" class="g0_1" />
+<path d="M76.4,82.5H377.9M76.4,105.4H377.9M76.4,128.3H377.9M76.4,151.2H377.9M76.4,174.1H377.9M76.4,197H377.9M76.4,219.9H377.9M76.4,242.8H377.9M76.4,265.7H377.9M76.4,288.6H377.9m-301.5,23H377.9M76.4,334.5H377.9M76.4,357.4H377.9M76.4,380.3H377.9M76.4,403.2H377.9M76.4,426.1H377.9M76.4,449H377.9M76.4,471.9H377.9M76.4,494.8H184.2M76.4,517.7H184.2m-1.1,-22.9h25.3m-25.3,22.9h25.3m-1.1,-22.9h25.3m-25.3,22.9h25.3m-1.1,-22.9h25.4m-25.4,22.9h25.4m-1.2,-22.9h25.4m-25.4,22.9h25.4m-1.2,-22.9h25.4m-25.4,22.9h25.4m-1.2,-22.9h25.4m-25.4,22.9h25.4m-1.1,-22.9h25.3m-25.3,22.9h25.3m-1.1,-22.9h25.3m-25.3,22.9h25.3m-301.5,0H377.9M77,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24M77,311v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M183.7,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M207.9,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M232.1,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M256.3,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M280.5,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M304.7,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M328.9,81.9v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24M353.1,81.9v24m24.2,-24v24m-24.2,21.8v24m24.2,-24v24m-24.2,21.8v24.1m24.2,-24.1v24.1m-24.2,21.8v24m24.2,-24v24m-24.2,21.8v24m24.2,-24v24M353.1,311v24m24.2,-24v24m-24.2,21.8v24m24.2,-24v24m-24.2,21.8v24.1m24.2,-24.1v24.1m-24.2,21.7v24.1m24.2,-24.1v24.1m-24.2,21.8v24m24.2,-24v24m0,-436.4v24m0,21.8v24m0,21.8v24.1m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24m0,21.8v24.1m0,21.7v24.1m0,21.8v24" class="g1_1" />
+<text x="90" y="98" dx="0,0.1,0,0,0,0,0,0,0.1,-0.1,-0.1,0" class="s1_1">Ini°al Array</text>
+<text x="187" y="98" class="s1_1">10</text>
+<text x="215" y="98" class="s1_1">7</text>
+<text x="239" y="98" class="s1_1">3</text>
+<text x="264" y="98" class="s1_1">1</text>
+<text x="288" y="98" class="s1_1">9</text>
+<text x="312" y="98" class="s1_1">7</text>
+<text x="336" y="98" class="s1_1">4</text>
+<text x="361" y="98" class="s1_1">3</text>
+<text x="89" y="143" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 0</text>
+<text x="191" y="143" class="s1_1">7</text>
+<text x="215" y="143" class="s1_1">3</text>
+<text x="239" y="143" class="s1_1">1</text>
+<text x="264" y="143" class="s1_1">9</text>
+<text x="288" y="143" class="s1_1">7</text>
+<text x="312" y="143" class="s1_1">4</text>
+<text x="336" y="143" class="s1_1">3</text>
+<text x="356" y="143" class="s3_1">10</text>
+<text x="89" y="189" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 1</text>
+<text x="191" y="189" class="s1_1">3</text>
+<text x="215" y="189" class="s1_1">1</text>
+<text x="239" y="189" class="s1_1">7</text>
+<text x="264" y="189" class="s1_1">7</text>
+<text x="288" y="189" class="s1_1">4</text>
+<text x="312" y="189" class="s1_1">3</text>
+<text x="336" y="189" class="s3_1">9</text>
+<text x="356" y="189" class="s3_1">10</text>
+<text x="89" y="235" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 2</text>
+<text x="191" y="235" class="s1_1">1</text>
+<text x="215" y="235" class="s1_1">3</text>
+<text x="239" y="235" class="s1_1">7</text>
+<text x="264" y="235" class="s1_1">4</text>
+<text x="288" y="235" class="s1_1">3</text>
+<text x="312" y="235" class="s3_1">7</text>
+<text x="336" y="235" class="s3_1">9</text>
+<text x="356" y="235" class="s3_1">10</text>
+<text x="89" y="281" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 3</text>
+<text x="191" y="281" class="s1_1">1</text>
+<text x="215" y="281" class="s1_1">3</text>
+<text x="239" y="281" class="s1_1">4</text>
+<text x="264" y="281" class="s1_1">3</text>
+<text x="288" y="281" class="s3_1">7</text>
+<text x="312" y="281" class="s3_1">7</text>
+<text x="336" y="281" class="s3_1">9</text>
+<text x="356" y="281" class="s3_1">10</text>
+<text x="89" y="327" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 4</text>
+<text x="191" y="327" class="s1_1">1</text>
+<text x="215" y="327" class="s1_1">3</text>
+<text x="239" y="327" class="s1_1">3</text>
+<text x="264" y="327" class="s3_1">4</text>
+<text x="288" y="327" class="s3_1">7</text>
+<text x="312" y="327" class="s3_1">7</text>
+<text x="336" y="327" class="s3_1">9</text>
+<text x="356" y="327" class="s3_1">10</text>
+<text x="89" y="373" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 5</text>
+<text x="191" y="373" class="s1_1">1</text>
+<text x="215" y="373" class="s1_1">3</text>
+<text x="239" y="373" class="s3_1">3</text>
+<text x="264" y="373" class="s3_1">4</text>
+<text x="288" y="373" class="s3_1">7</text>
+<text x="312" y="373" class="s3_1">7</text>
+<text x="336" y="373" class="s3_1">9</text>
+<text x="356" y="373" class="s3_1">10</text>
+<text x="89" y="418" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 6</text>
+<text x="191" y="418" class="s1_1">1</text>
+<text x="215" y="418" class="s3_1">3</text>
+<text x="239" y="418" class="s3_1">3</text>
+<text x="264" y="418" class="s3_1">4</text>
+<text x="288" y="418" class="s3_1">7</text>
+<text x="312" y="418" class="s3_1">7</text>
+<text x="336" y="418" class="s3_1">9</text>
+<text x="356" y="418" class="s3_1">10</text>
+<text x="89" y="464" dx="0,0.1,0,0,-0.1,0,0,0,0,0,0" class="s2_1">Aﬅer pass 7</text>
+<text x="191" y="464" class="s3_1">1</text>
+<text x="215" y="464" class="s3_1">3</text>
+<text x="239" y="464" class="s3_1">3</text>
+<text x="264" y="464" class="s3_1">4</text>
+<text x="288" y="464" class="s3_1">7</text>
+<text x="312" y="464" class="s3_1">7</text>
+<text x="336" y="464" class="s3_1">9</text>
+<text x="356" y="464" class="s3_1">10</text>
+<text x="87" y="510" dx="0,0.1,0,-0.1,0,0,0,0,0.1,-0.1,-0.1,0" class="s3_1">Sorted Array</text>
+<text x="191" y="510" class="s3_1">1</text>
+<text x="215" y="510" class="s3_1">3</text>
+<text x="239" y="510" class="s3_1">3</text>
+<text x="264" y="510" class="s3_1">4</text>
+<text x="288" y="510" class="s3_1">7</text>
+<text x="312" y="510" class="s3_1">7</text>
+<text x="336" y="510" class="s3_1">9</text>
+<text x="356" y="510" class="s3_1">10</text>
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Carlito_9;
+	src: url("fonts/Carlito_9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

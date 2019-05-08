@@ -1,0 +1,30 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect height="202" width="202" y="-1" x="-1" fill="#fff" id="canvas_background"/>
+  <g display="none" id="canvasGrid">
+   <rect height="100%" width="100%" y="0" x="0" stroke-width="0" fill="url(#gridpattern)" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect rx="8" height="35" width="170" y="15.27" x="15" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_6"/>
+  <rect rx="8" height="35" width="170" y="75.27" x="35" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_8"/>
+  <rect rx="8" height="35" width="170" y="135.27" x="55" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_9"/>
+  <rect rx="8" height="35" width="170" y="195.27" x="75" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_10"/>
+  <rect rx="8" height="35" width="170" y="255.27" x="95" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_11"/>
+  <rect rx="8" height="35" width="170" y="315.27" x="115" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill="#59c6c6" id="svg_12"/>
+  <path d="m88.75,63.222267l15.500061,-11.472267l15.499939,11.472267l-7.75,0l0,11.52774l-15.499939,0l0,-11.52774l-7.750061,0z" transform="rotate(-180 104.25 63.25)" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_13"/>
+  <path d="m108.75,123.22226l15.500061,-11.47226l15.499939,11.47226l-7.75,0l0,11.52774l-15.499939,0l0,-11.52774l-7.750061,0z" transform="rotate(-180 124.25 123.25)" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_14"/>
+  <path d="m128.75,183.22226l15.500061,-11.47226l15.499939,11.47226l-7.75,0l0,11.52774l-15.499939,0l0,-11.52774l-7.750061,0z" transform="rotate(-180 144.25 183.25)" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_15"/>
+  <path d="m148.75,243.22226l15.500061,-11.47226l15.499939,11.47226l-7.75,0l0,11.52774l-15.499939,0l0,-11.52774l-7.750061,0z" transform="rotate(-180 164.25 243.25)" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_16"/>
+  <path d="m168.75,303.22226l15.500061,-11.47226l15.499939,11.47226l-7.75,0l0,11.52774l-15.499939,0l0,-11.52774l-7.750061,0z" transform="rotate(-180 184.25 303.25)" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_17"/>
+  <path d="m328.253754,300.842407c0,11.679077 -16.566833,21.148987 -36.999969,21.148987l0,16.917908l0,0c20.433136,0 36.999969,-9.46698 36.999969,-21.149261l0,-16.917633c0,-9.64267 -11.413391,-18.06366 -27.750031,-20.475281l0,-8.457794l-9.249939,16.246948l9.249939,17.588318l0,-8.4599l0,0c11.016083,1.626587 20.110229,6.059448 24.660736,12.017609" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_20"/>
+  <path d="m308.253754,240.842407c0,11.679077 -16.566833,21.148987 -36.999969,21.148987l0,16.917908l0,0c20.433136,0 36.999969,-9.46698 36.999969,-21.149261l0,-16.917618c0,-9.64267 -11.413391,-18.06366 -27.750031,-20.475281l0,-8.457825l-9.249939,16.246948l9.249939,17.588318l0,-8.4599l0,0c11.016083,1.626602 20.110229,6.059464 24.660736,12.017624" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_21"/>
+  <path d="m288.253754,180.842407c0,11.679077 -16.566833,21.148987 -36.999969,21.148987l0,16.917923l0,0c20.433136,0 36.999969,-9.46698 36.999969,-21.149261l0,-16.917633c0,-9.64267 -11.413391,-18.06366 -27.750031,-20.475281l0,-8.457825l-9.249939,16.246948l9.249939,17.588318l0,-8.4599l0,0c11.016083,1.626602 20.110229,6.059464 24.660736,12.017624" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_22"/>
+  <path d="m248.253754,60.842407c0,11.679085 -16.566833,21.148994 -36.999969,21.148994l0,16.917908l0,0c20.433136,0 36.999969,-9.46698 36.999969,-21.149261l0,-16.917625c0,-9.642673 -11.413391,-18.063663 -27.750031,-20.475281l0,-8.457821l-9.249939,16.246948l9.249939,17.588322l0,-8.4599l0,0c11.016083,1.626587 20.110229,6.059448 24.660736,12.017609" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_24"/>
+  <path d="m268.253754,120.842407c0,11.679077 -16.566833,21.148987 -36.999969,21.148987l0,16.917923l0,0c20.433136,0 36.999969,-9.46698 36.999969,-21.149261l0,-16.917633c0,-9.64267 -11.413391,-18.06366 -27.750031,-20.475281l0,-8.457825l-9.249939,16.246956l9.249939,17.58831l0,-8.459892l0,0c11.016083,1.626595 20.110229,6.059456 24.660736,12.017616" stroke-width="1.5" stroke-opacity="null" stroke="#000" fill-opacity="null" fill="#59c6c6" id="svg_23"/>
+ </g>
+</svg>

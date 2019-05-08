@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"Jattie van der Linde","fileName":"bubblesort.pdf","bounds":[[935,1210]],"bookmarks":[{"title":"Sheet1","page":1,"zoom":"XYZ 0 1210 0"}],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};

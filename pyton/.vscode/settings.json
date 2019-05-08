@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
